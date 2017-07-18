@@ -1,0 +1,9 @@
+{
+    "uptime": "Uptime: {uptime}s",
+    "thread_init": "Thread {num}: {thread_name}",
+    "phrase_found": "Valid phrase found in {comment.author.name}s comment",
+    "reply": "Replied to {comment.author.name}s comment {comment.permalink}",
+    "saving": "Saving data before shutdown...",
+    "saved": "Data saved",
+    "shutdown": "Bot shutdown"
+}

@@ -1,0 +1,26 @@
+{
+    "user_agent": "WeDidItReddit/1.0 by /u/Rascal_Two running everywhere under /u/BOT_NAME",
+    "username": "",
+    "password": "",
+    "rates": {
+        "uptime": 30,
+        "io": 30
+    },
+    "subreddits": [
+    ],
+    "ignored_users":[
+        "TellsYouAJokeBot",
+        "TerribleJokeBot",
+        "Rascal_Two"
+    ],
+    "ignored_subreddits":[
+    ],
+    "phrases": [
+        "we did it reddit"
+    ],
+    "reply_message": [
+        "",
+        "W ^o ^^o ^^^o!",
+        ""
+    ]
+}
